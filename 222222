@@ -1,0 +1,7 @@
+<>
+<>
+int i=1000;
+for(i=0;i<1;i++){
+  System.out.println(i);
+}
+<>
